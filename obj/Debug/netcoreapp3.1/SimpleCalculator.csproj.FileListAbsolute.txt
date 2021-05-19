@@ -1,0 +1,31 @@
+F:\visualStudio\vis_studio_project\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+F:\visualStudio\vis_studio_project\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+F:\visualStudio\vis_studio_project\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+F:\visualStudio\vis_studio_project\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+F:\visualStudio\vis_studio_project\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+F:\visualStudio\vis_studio_project\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+F:\visualStudio\vis_studio_project\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.Form1.resources
+F:\visualStudio\vis_studio_project\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.GenerateResource.cache
+F:\visualStudio\vis_studio_project\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+F:\visualStudio\vis_studio_project\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+F:\visualStudio\vis_studio_project\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+F:\visualStudio\vis_studio_project\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+F:\visualStudio\vis_studio_project\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+F:\visualStudio\vis_studio_project\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
+F:\visualStudio\vis_studio_project\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csprojAssemblyReference.cache
+F:\chrome download\Study Material\c#er\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+F:\chrome download\Study Material\c#er\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+F:\chrome download\Study Material\c#er\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+F:\chrome download\Study Material\c#er\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+F:\chrome download\Study Material\c#er\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+F:\chrome download\Study Material\c#er\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csprojAssemblyReference.cache
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.Form1.resources
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.GenerateResource.cache
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache
+F:\chrome download\Study Material\c#er\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.Properties.Resources.resources
